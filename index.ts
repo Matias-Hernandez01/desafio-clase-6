@@ -68,5 +68,6 @@ function testClaseEdificio() {
 
 function main() {
 testClaseEdificio();
+  console.log("Comiteando el archivo");
 }
 main();
